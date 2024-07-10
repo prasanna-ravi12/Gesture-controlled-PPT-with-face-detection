@@ -29,8 +29,9 @@ The `HandDetector` module from `cvzone` is used to detect and track hand gesture
 - **Zooming**: Implements zoom functionality based on hand gestures for detailed slide viewing.
 
 #### Installation 📥
-1. pip install numpy cvzone mediapipe
-
+```
+  python pip install numpy cvzone mediapipe
+  ```
 
 #### Usage 🖥️
 1. **Face Database Initialization**:
