@@ -7,11 +7,8 @@ Project Overview:
 This project enables users to control PowerPoint slides using hand gestures. Additionally, it incorporates face detection to ensure only authorized users can access the presentation.
 
 Directory Structure 📁
- 
- database.
- FACE_DETECTION.py.
- haarcascade_frontalface_default.xml.
- HAND_GESTURE.py.
- Presentation.
+
+![Image Title](images/screenshot1.png)
+
 
 
