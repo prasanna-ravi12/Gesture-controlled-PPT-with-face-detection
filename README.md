@@ -57,7 +57,13 @@ The `HandDetector` module from `cvzone` is used to detect and track hand gesture
 
 #### Demo Images
 1. **Face Detection and Recognition in Action**:
+
 ![face](https://github.com/prasanna-ravi12/Gesture-controlled-PPT-with-face-detection/assets/175058249/dd8c3588-9b23-4ade-afb2-f26355fda611)
+
+2. **Hand Gesture for Slide Navigation**:
+
+
+
 
    
 
