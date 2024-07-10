@@ -32,4 +32,37 @@ The `HandDetector` module from `cvzone` is used to detect and track hand gesture
 1. pip install numpy cvzone mediapipe
 
 
+#### Usage 🖥️
+1. **Face Database Initialization**:
+- Run `FACE_DETECTION.py` to create a database of authorized users:
+  ```
+  python FACE_DETECTION.py
+  ```
+- Follow the on-screen instructions to capture images for each authorized user.
+
+2. **Presentation Control**:
+- Launch the slide control interface using `HAND_GESTURE.py`( will run automatically if user face is recognized):
+  ```
+  python HAND_GESTURE.py
+  ```
+- Perform hand gestures in front of the webcam to navigate slides and annotate presentations.
+- Control the Presentation:
+   - Use hand gestures to navigate through the slides.
+   - The following gestures are recognized.
+      - All fingers up: Move to the previous slide.
+      - All fingers down: Move to the next slide.
+      - Index and middle finger up: Draw on the current slide.
+      - Index finger up: Start drawing annotations.
+      - Three middle fingers up: Remove the last annotation.
+
+#### Demo Images
+1. **Face Detection and Recognition in Action**:
+   
+
+
+
+
+
+
+
 
