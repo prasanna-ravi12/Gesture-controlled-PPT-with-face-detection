@@ -8,7 +8,7 @@ This project enables users to control PowerPoint slides using hand gestures. Add
 
 Directory Structure 📁
 
-![Image Title](images/screenshot1.png)
+<img width="360" alt="Screenshot 2024-07-11 at 1 03 54 AM" src="https://github.com/prasanna-ravi12/Gesture-controlled-PPT-with-face-detection/assets/175058249/7da17d0d-a7f3-498a-b15d-611079fdbbce">
 
 
 
