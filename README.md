@@ -30,8 +30,11 @@ The `HandDetector` module from `cvzone` is used to detect and track hand gesture
 
 #### Installation 📥
 ```
-  python pip install numpy cvzone mediapipe
+  pip install numpy cvzone mediapipe
   ```
+### Prerequisites
+
+- Python 3.7
 
 #### Usage 🖥️
 1. **Face Database Initialization**:
