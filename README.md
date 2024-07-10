@@ -63,6 +63,25 @@ The `HandDetector` module from `cvzone` is used to detect and track hand gesture
 2. **Hand Gesture for Slide Navigation**:
 
 - <img width="1041" alt="Screenshot 2024-07-11 at 1 30 00 AM" src="https://github.com/prasanna-ravi12/Gesture-controlled-PPT-with-face-detection/assets/175058249/c71d990c-af56-4354-83e2-aadd8c17f9d0">
+### Conclusion
+
+**Gesticulation Mapping** combines the power of hand gesture recognition and facial detection to revolutionize how presentations are controlled. By leveraging computer vision techniques, this project not only enhances user interaction but also ensures security through biometric authentication.
+
+Explore the functionalities provided by this project and contribute to its development. Your feedback and contributions are highly appreciated!
+
+#### Get Started
+Follow the installation instructions to set up Gesticulation Mapping on your local machine. Experience seamless slide navigation and annotation with just your gestures and the power of computer vision.
+
+#### Contact
+For any questions or suggestions, feel free to reach out:
+- linkedin: [Your LinkedIn Profile](https://www.linkedin.com/in/prasanna-ravi-r-a9a67a244)
+
+#### License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+#### Acknowledgments
+- Acknowledge contributors or libraries used in the project.
+- Express gratitude to any individuals or organizations that supported the project development.
 
 
 
