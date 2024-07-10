@@ -8,10 +8,10 @@ This project enables users to control PowerPoint slides using hand gestures. Add
 
 Directory Structure 📁
  
- # database
- # FACE_DETECTION.py
- # haarcascade_frontalface_default.xml
- # HAND_GESTURE.py
- # Presentation
+  database
+ FACE_DETECTION.py
+ haarcascade_frontalface_default.xml
+ HAND_GESTURE.py
+ Presentation
 
 
